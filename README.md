@@ -52,6 +52,3 @@ The dataset consists of recordings from **30 volunteers (ages 19-48)** performin
 This project is licensed under the MIT License.
 
 ---
-### Contact
-For any queries or contributions, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
-
